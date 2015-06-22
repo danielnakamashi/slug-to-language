@@ -1,0 +1,12 @@
+{
+    "name": "dnakamashi/slug-to-language",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Daniel Nakamashi",
+            "email": "dnakamashi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
